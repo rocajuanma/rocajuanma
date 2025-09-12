@@ -6,20 +6,6 @@ Based in Canada 🏠
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocajuanma/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rocajuanma&style=flat-square&color=blue)
-
----
-
-## 📊 GitHub Analytics
-
-| [GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocajuanma&show_icons=false&theme=highcontrast&count_private=true) | [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rocajuanma&theme=highcontrast) |
-| --- | --- |
-| [Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=rocajuanma&layout=compact&theme=highcontrast) | |
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rocajuanma&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rocajuanma&theme=highcontrast)
-
 ---
 
 ## 🚀 Featured Projects
