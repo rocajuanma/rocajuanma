@@ -10,9 +10,17 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocajuanma&show_icons=true&theme=highcontrast&hide_border=true&count_private=true)
 
 
-## 🚀 Featured Projects
+## 🌟 Open Source Projects
 
-[**Anvil**](https://github.com/rocajuanma/anvil) - A CLI tool for streamlining application setup and management. Provides automation for common development tasks, configuration management, and integrations with popular development tools. Built with Go for cross-platform reliability.
+### [**Anvil**](https://github.com/rocajuanma/anvil) 🔨
+[![Try Anvil](https://img.shields.io/badge/Try%20Anvil-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/anvil)
+![GitHub release](https://img.shields.io/github/v/release/rocajuanma/anvil?style=flat&label=Release)
+![GitHub stars](https://img.shields.io/github/stars/rocajuanma/anvil?style=social&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/rocajuanma/anvil?style=social&label=Forks)
+![GitHub last commit](https://img.shields.io/github/last-commit/rocajuanma/anvil?style=flat&label=Last%20Commit)
+
+Anvil is a lightning-fast CLI tool designed to take the pain out of repetitive app setup and onboarding. Whether you're spinning up a new machine or joining a team, Anvil helps you automate tedious configuration steps and ensures consistency. Want to see how it can simplify your workflow?
+
 
 ## 🎯 Current Focus
  🔥 Building scalable and reliable backend systems  
