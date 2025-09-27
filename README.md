@@ -27,8 +27,10 @@ Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Wh
   </a>
 </div>
 
-
 ## 🛠️ Tech Stack
+
+<details>
+  <summary> </summary>
 
 #### Languages & Frameworks
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -57,3 +59,4 @@ Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Wh
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+</details>
