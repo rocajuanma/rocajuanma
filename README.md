@@ -22,7 +22,9 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Whether you're spinning up a new machine or joining a team, Anvil helps you automate tedious configuration steps and ensures consistency.
 
 <div align="center">
-  <img src="assets/anvil.gif" alt="Anvil Demo" width="600">
+  <a href="https://github.com/rocajuanma/anvil">
+    <img src="https://raw.githubusercontent.com/rocajuanma/anvil/master/assets/anvil.gif" alt="Anvil Demo" width="600">
+  </a>
 </div>
 
 
