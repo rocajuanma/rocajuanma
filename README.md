@@ -19,7 +19,11 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 ![GitHub forks](https://img.shields.io/github/forks/rocajuanma/anvil?style=social&label=Forks)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rocajuanma/anvil?style=flat&label=Last%20Commit)
 
-Anvil is a lightning-fast CLI tool designed to take the pain out of repetitive app setup and onboarding. Whether you're spinning up a new machine or joining a team, Anvil helps you automate tedious configuration steps and ensures consistency. Want to see how it can simplify your workflow?
+Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Whether you're spinning up a new machine or joining a team, Anvil helps you automate tedious configuration steps and ensures consistency.
+
+<div align="center">
+  <img src="assets/anvil.gif" alt="Anvil Demo" width="600">
+</div>
 
 
 ## 🛠️ Tech Stack
