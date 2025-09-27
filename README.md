@@ -7,7 +7,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocajuanma/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rocajuanma)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocajuanma&show_icons=true&theme=highcontrast&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocajuanma&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 
 ## 🚀 Open Source
@@ -22,11 +22,15 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Whether you're spinning up a new machine or joining a team, Anvil helps you automate tedious configuration steps and ensures consistency.
 
 <div align="center">
-  <img src="assets/anvil.gif" alt="Anvil Demo" width="600">
+  <a href="https://github.com/rocajuanma/anvil">
+    <img src="https://raw.githubusercontent.com/rocajuanma/anvil/master/assets/anvil.gif" alt="Anvil Demo" width="600">
+  </a>
 </div>
 
-
 ## 🛠️ Tech Stack
+
+<details>
+  <summary> </summary>
 
 #### Languages & Frameworks
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -55,3 +59,4 @@ Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Wh
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+</details>
