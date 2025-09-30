@@ -12,8 +12,8 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 
 ## 🚀 Open Source
 
-### [**Anvil**](https://github.com/rocajuanma/anvil) 🔨
-[![Try Anvil](https://img.shields.io/badge/Try%20Anvil-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/anvil)
+### 🔨 [**Anvil**](https://github.com/rocajuanma/anvil) 
+[![Star Anvil](https://img.shields.io/badge/Try%20Anvil-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/anvil)
 ![GitHub release](https://img.shields.io/github/v/release/rocajuanma/anvil?style=flat&label=Release)
 ![GitHub stars](https://img.shields.io/github/stars/rocajuanma/anvil?style=social&label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/rocajuanma/anvil?style=social&label=Forks)
@@ -27,8 +27,8 @@ Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Wh
   </a>
 </div>
 
-### [**Palantir**](https://github.com/rocajuanma/palantir) 🔮
-[![Try Palantir](https://img.shields.io/badge/Try%20Palantir-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/palantir)
+### 🔮 [**Palantir**](https://github.com/rocajuanma/palantir) 
+[![Star Palantir](https://img.shields.io/badge/Try%20Palantir-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/palantir)
 ![GitHub release](https://img.shields.io/github/v/release/rocajuanma/palantir?style=flat&label=Release)
 ![GitHub stars](https://img.shields.io/github/stars/rocajuanma/palantir?style=social&label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/rocajuanma/palantir?style=social&label=Forks)
