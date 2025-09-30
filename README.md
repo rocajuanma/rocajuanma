@@ -27,6 +27,21 @@ Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Wh
   </a>
 </div>
 
+### [**Palantir**](https://github.com/rocajuanma/palantir) 🔮
+[![Try Palantir](https://img.shields.io/badge/Try%20Palantir-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/palantir)
+![GitHub release](https://img.shields.io/github/v/release/rocajuanma/palantir?style=flat&label=Release)
+![GitHub stars](https://img.shields.io/github/stars/rocajuanma/palantir?style=social&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/rocajuanma/palantir?style=social&label=Forks)
+![GitHub last commit](https://img.shields.io/github/last-commit/rocajuanma/palantir?style=flat&label=Last%20Commit)
+
+Palantir is a Go output library with colours, emojis, and structured logging for CLI applications. It features multiple output levels, progress indicators, and customizable formatting.
+
+<div align="center">
+  <a href="https://github.com/rocajuanma/palantir">
+    <img src="https://raw.githubusercontent.com/rocajuanma/palantir/master/cmd/terminal/terminal.png" alt="Palantir Image" width="600">
+  </a>
+</div>
+
 ## 🛠️ Tech Stack
 
 <details>
