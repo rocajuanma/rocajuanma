@@ -4,16 +4,20 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 > Crafting tools and code so the journey is lighter for those who follow.
 
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocajuanma/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rocajuanma)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocajuanma&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
+</div>
+
 
 ## 🚀 Open Source
 
-### [**Anvil**](https://github.com/rocajuanma/anvil) 🔨
-[![Try Anvil](https://img.shields.io/badge/Try%20Anvil-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/anvil)
+### 🔨 [**Anvil**](https://github.com/rocajuanma/anvil) 
+[![Star Anvil](https://img.shields.io/badge/Try%20Anvil-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/anvil)
 ![GitHub release](https://img.shields.io/github/v/release/rocajuanma/anvil?style=flat&label=Release)
 ![GitHub stars](https://img.shields.io/github/stars/rocajuanma/anvil?style=social&label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/rocajuanma/anvil?style=social&label=Forks)
@@ -24,6 +28,21 @@ Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Wh
 <div align="center">
   <a href="https://github.com/rocajuanma/anvil">
     <img src="https://raw.githubusercontent.com/rocajuanma/anvil/master/assets/anvil.gif" alt="Anvil Demo" width="600">
+  </a>
+</div>
+
+### 🔮 [**Palantir**](https://github.com/rocajuanma/palantir) 
+[![Star Palantir](https://img.shields.io/badge/Try%20Palantir-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/palantir)
+![GitHub release](https://img.shields.io/github/v/release/rocajuanma/palantir?style=flat&label=Release)
+![GitHub stars](https://img.shields.io/github/stars/rocajuanma/palantir?style=social&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/rocajuanma/palantir?style=social&label=Forks)
+![GitHub last commit](https://img.shields.io/github/last-commit/rocajuanma/palantir?style=flat&label=Last%20Commit)
+
+Palantir is a Go output library with colours, emojis, and structured logging for CLI applications. It features multiple output levels, progress indicators, and customizable formatting.
+
+<div align="center">
+  <a href="https://github.com/rocajuanma/palantir">
+    <img src="https://raw.githubusercontent.com/rocajuanma/palantir/master/cmd/terminal/terminal.png" alt="Palantir Image" width="600">
   </a>
 </div>
 
