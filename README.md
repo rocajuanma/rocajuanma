@@ -42,7 +42,7 @@ Palantir is a Go output library with colours, emojis, and structured logging for
 
 <div align="center">
   <a href="https://github.com/rocajuanma/palantir">
-    <img src="https://raw.githubusercontent.com/rocajuanma/palantir/master/cmd/terminal/terminal.png" alt="Palantir Image" width="600">
+    <img src="https://raw.githubusercontent.com/rocajuanma/palantir/master/cmd/demo/terminal-short.png" alt="Palantir Image" width="600">
   </a>
 </div>
 
