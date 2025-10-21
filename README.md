@@ -23,7 +23,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 ![GitHub forks](https://img.shields.io/github/forks/rocajuanma/anvil?style=social&label=Forks)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rocajuanma/anvil?style=flat&label=Last%20Commit)
 
-Anvil is a CLI tool designed to simplify repetitive app setup and onboarding. Whether you're spinning up a new machine or joining a team, Anvil helps you automate tedious configuration steps and ensures consistency.
+Anvil is a CLI tool that makes app setup, configuration management, and onboarding easier. Whether you're setting up a new machine, joining a team, or keeping your configs in sync, Anvil automates the boring setup steps and helps keep everything consistent.
 
 <div align="center">
   <a href="https://github.com/rocajuanma/anvil">
@@ -45,6 +45,15 @@ Palantir is a Go output library with colours, emojis, and structured logging for
     <img src="https://raw.githubusercontent.com/rocajuanma/palantir/master/assets/terminal-short.png" alt="Palantir Image" width="600">
   </a>
 </div>
+
+### 🚀 [**Simple Release**](https://github.com/rocajuanma/simple-release) 
+[![Star Simple Release](https://img.shields.io/badge/Try%20Simple%20Release-Install%20Now-red?style=flat&logo=github)](https://github.com/rocajuanma/simple-release)
+![GitHub release](https://img.shields.io/github/v/release/rocajuanma/simple-release?style=flat&label=Release)
+![GitHub stars](https://img.shields.io/github/stars/rocajuanma/simple-release?style=social&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/rocajuanma/simple-release?style=social&label=Forks)
+![GitHub last commit](https://img.shields.io/github/last-commit/rocajuanma/simple-release?style=flat&label=Last%20Commit)
+
+Reusable workflows to automatically create GitHub release notes and update changelog file from git tag push. Speed up your release process: create a tag to trigger a new GitHub release, automatically update your changelog with release details, and receive a pull request with the latest changelog changes.
 
 ## 🛠️ Tech Stack
 
