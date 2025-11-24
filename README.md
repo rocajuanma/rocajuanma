@@ -8,6 +8,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocajuanma/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/0xjuanma)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/0xjuanma)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xjuanma&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
