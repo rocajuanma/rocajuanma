@@ -15,7 +15,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 </div>
 
 
-## 🚀 Open Source
+## Open Source
 
 <div align="center">
 
@@ -39,17 +39,17 @@ Anvil is a CLI tool that makes app setup, configuration management, and onboardi
 
 <div align="center">
 
-### 🔮 [**Palantir**](https://github.com/0xjuanma/palantir)
+### ⎈ [**Helm**](https://github.com/0xjuanma/helm)
 
-[![Star Palantir](https://img.shields.io/badge/Try%20Palantir-Install%20Now-red?style=flat&logo=github)](https://github.com/0xjuanma/palantir)
-![GitHub release](https://img.shields.io/github/v/release/0xjuanma/palantir?style=flat&label=Release)
-![GitHub stars](https://img.shields.io/github/stars/0xjuanma/palantir?style=social&label=Stars)
-![GitHub forks](https://img.shields.io/github/forks/0xjuanma/palantir?style=social&label=Forks)
-![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/palantir?style=flat&label=Last%20Commit)
+[![Star Helm](https://img.shields.io/badge/Try%20Helm-Install%20Now-red?style=flat&logo=github)](https://github.com/0xjuanma/helm)
+![GitHub release](https://img.shields.io/github/v/release/0xjuanma/helm?style=flat&label=Release)
+![GitHub stars](https://img.shields.io/github/stars/0xjuanma/helm?style=social&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/0xjuanma/helm?style=social&label=Forks)
+![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/helm?style=flat&label=Last%20Commit)
 
 </div>
 
-Palantir is a Go output library with colours, emojis, and structured logging for CLI applications. It features multiple output levels, progress indicators, and customizable formatting.
+Helm is a minimalistic, customizable pomodoro-style timer for your terminal. Protect your focus and time, guiding your work sessions with intention.
 
 <div align="center">
 
@@ -64,6 +64,20 @@ Palantir is a Go output library with colours, emojis, and structured logging for
 </div>
 
 Reusable workflows to automatically create GitHub release notes and update changelog file from git tag push. Speed up your release process: create a tag to trigger a new GitHub release, automatically update your changelog with release details, and receive a pull request with the latest changelog changes.
+
+<div align="center">
+
+### 🔮 [**Palantir**](https://github.com/0xjuanma/palantir)
+
+[![Star Palantir](https://img.shields.io/badge/Try%20Palantir-Install%20Now-red?style=flat&logo=github)](https://github.com/0xjuanma/palantir)
+![GitHub release](https://img.shields.io/github/v/release/0xjuanma/palantir?style=flat&label=Release)
+![GitHub stars](https://img.shields.io/github/stars/0xjuanma/palantir?style=social&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/0xjuanma/palantir?style=social&label=Forks)
+![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/palantir?style=flat&label=Last%20Commit)
+
+</div>
+
+Palantir is a Go output library with colours, emojis, and structured logging for CLI applications. It features multiple output levels, progress indicators, and customizable formatting.
 
 ## 🛠️ Tech Stack
 
