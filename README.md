@@ -25,7 +25,6 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 
 ### 🔨 [**Anvil**](https://github.com/0xjuanma/anvil)
 
-[![Star Anvil](https://img.shields.io/badge/Try%20Anvil-Install%20Now-red?style=flat&logo=github)](https://github.com/0xjuanma/anvil)
 ![GitHub release](https://img.shields.io/github/v/release/0xjuanma/anvil?style=flat&label=Release)
 ![GitHub stars](https://img.shields.io/github/stars/0xjuanma/anvil?style=social&label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/0xjuanma/anvil?style=social&label=Forks)
@@ -45,7 +44,6 @@ Anvil is a CLI tool that makes app setup, configuration management, and onboardi
 
 ### ⎈ [**Helm**](https://github.com/0xjuanma/helm)
 
-[![Star Helm](https://img.shields.io/badge/Try%20Helm-Install%20Now-red?style=flat&logo=github)](https://github.com/0xjuanma/helm)
 ![GitHub release](https://img.shields.io/github/v/release/0xjuanma/helm?style=flat&label=Release)
 ![GitHub stars](https://img.shields.io/github/stars/0xjuanma/helm?style=social&label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/0xjuanma/helm?style=social&label=Forks)
@@ -59,7 +57,6 @@ Helm is a minimalistic, customizable pomodoro-style timer for your terminal. Pro
 
 ### 🚀 [**Simple Release**](https://github.com/0xjuanma/simple-release)
 
-[![Star Simple Release](https://img.shields.io/badge/Try%20Simple%20Release-Install%20Now-red?style=flat&logo=github)](https://github.com/0xjuanma/simple-release)
 ![GitHub release](https://img.shields.io/github/v/release/0xjuanma/simple-release?style=flat&label=Release)
 ![GitHub stars](https://img.shields.io/github/stars/0xjuanma/simple-release?style=social&label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/0xjuanma/simple-release?style=social&label=Forks)
@@ -73,7 +70,6 @@ Reusable workflows to automatically create GitHub release notes and update chang
 
 ### 🔮 [**Palantir**](https://github.com/0xjuanma/palantir)
 
-[![Star Palantir](https://img.shields.io/badge/Try%20Palantir-Install%20Now-red?style=flat&logo=github)](https://github.com/0xjuanma/palantir)
 ![GitHub release](https://img.shields.io/github/v/release/0xjuanma/palantir?style=flat&label=Release)
 ![GitHub stars](https://img.shields.io/github/stars/0xjuanma/palantir?style=social&label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/0xjuanma/palantir?style=social&label=Forks)
