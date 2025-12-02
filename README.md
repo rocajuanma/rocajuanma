@@ -1,4 +1,8 @@
-# Hi, I'm Juanma 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Juanma+👋;Software+Engineer;LOTR+fanatic&center=true&width=500&height=50&color=0077B5" alt="Typing SVG" />
+  </a>
+</h1>
 
 Dedicated Software Engineer with over 12 years of experience across Ad-tech, Privacy/Security, Financial, and Automation industries. I specialize in backend systems with strong expertise in Python, Golang, and Ruby. Passionate about designing, implementing, and troubleshooting high-traffic production systems while fostering team growth through mentoring and knowledge sharing.
 > Crafting tools and code so the journey is lighter for those who follow.
