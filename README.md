@@ -23,7 +23,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 
 <div>
   <a href="https://github.com/0xjuanma/anvil">
-    <img src="https://raw.githubusercontent.com/0xjuanma/anvil/master/assets/anvil-2.0.png" align="left" width="30%" alt="Anvil">
+    <img src="https://raw.githubusercontent.com/0xjuanma/anvil/master/assets/anvil-2.0.png" align="left" width="120" alt="Anvil">
   </a>
   <h3><a href="https://github.com/0xjuanma/anvil">Anvil</a></h3>
   <p>
@@ -34,7 +34,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 
 <div>
   <a href="https://github.com/0xjuanma/helm">
-    <img src="https://raw.githubusercontent.com/0xjuanma/helm/main/assets/helm.png" align="left" width="30%" alt="Helm">
+    <img src="https://raw.githubusercontent.com/0xjuanma/helm/main/assets/helm.png" align="left" width="120" alt="Helm">
   </a>
   <h3><a href="https://github.com/0xjuanma/helm">Helm</a></h3>
   <p>
@@ -45,7 +45,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 
 <div>
   <a href="https://github.com/0xjuanma/simple-release">
-    <img src="https://raw.githubusercontent.com/0xjuanma/simple-release/main/assets/simple-release2.0.png" align="left" width="30%" alt="Simple Release">
+    <img src="https://raw.githubusercontent.com/0xjuanma/simple-release/main/assets/simple-release2.0.png" align="left" width="120" alt="Simple Release">
   </a>
   <h3><a href="https://github.com/0xjuanma/simple-release">Simple Release</a></h3>
   <p>
@@ -56,7 +56,7 @@ Dedicated Software Engineer with over 12 years of experience across Ad-tech, Pri
 
 <div>
   <a href="https://github.com/0xjuanma/palantir">
-    <img src="https://raw.githubusercontent.com/0xjuanma/palantir/main/assets/palantir.png" align="left" width="30%" alt="Palantir">
+    <img src="https://raw.githubusercontent.com/0xjuanma/palantir/main/assets/palantir.png" align="left" width="120" alt="Palantir">
   </a>
   <h3><a href="https://github.com/0xjuanma/palantir">Palantir</a></h3>
   <p>
